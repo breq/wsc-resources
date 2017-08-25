@@ -6,3 +6,5 @@
 
 - [Writing & speaking resources](./talk-prep/)
 - [Getting started in open source](./getting-started-oss/)
+
+## just ignore, trying to fix my git repo
